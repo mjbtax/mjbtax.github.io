@@ -2676,6 +2676,7 @@ input, select, textarea {
 		list-style: none;
 		padding: 0;
 		width: 100%;
+		background-color: #273037 !important;
 	}
 
 		.FAQ li {
@@ -2699,7 +2700,7 @@ input, select, textarea {
 			}
 
 			.FAQ li:nth-child(4) {
-				background-color: rgba(74, 83, 91, 1);
+				background-color: rgba(129, 129, 130, 1);
 			}
 
 			.FAQ li:nth-child(5) {
@@ -2728,7 +2729,7 @@ input, select, textarea {
 
 			.FAQ li:before {
 				display: block;
-				color: #FFFFF;
+				color: #FFFFFF;
 				position: absolute;
 				left: 1.75em;
 				top: 2.75em;
