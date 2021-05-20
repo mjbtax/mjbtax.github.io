@@ -2658,7 +2658,7 @@ input, select, textarea {
 
 			}
 
-/* FAQ*/
+/* FAQ */
 
 	.FAQ {
 		display: -moz-flex;
@@ -2687,19 +2687,19 @@ input, select, textarea {
 		}
 
 			.FAQ li:nth-child(1) {
-				background-color: rgba(0, 0, 0, 0.035);
+				background-color: rgba(74, 83, 91, 1);
 			}
 
 			.FAQ li:nth-child(2) {
-				background-color: rgba(0, 0, 0, 0.07);
+				background-color: rgba(89, 96, 102, 1);
 			}
 
 			.FAQ li:nth-child(3) {
-				background-color: rgba(0, 0, 0, 0.105);
+				background-color: rgba(103, 108, 112, 1);
 			}
 
 			.FAQ li:nth-child(4) {
-				background-color: rgba(0, 0, 0, 0.14);
+				background-color: rgba(74, 83, 91, 1);
 			}
 
 			.FAQ li:nth-child(5) {
