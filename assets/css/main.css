@@ -2676,7 +2676,7 @@ input, select, textarea {
 		list-style: none;
 		padding: 0;
 		width: 100%;
-		background-color: #273037 !important;
+		background: #273037 !important;
 	}
 
 		.FAQ li {
